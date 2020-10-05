@@ -8,18 +8,19 @@ let fs = require("fs");
 // Sets up the Express App
 // =============================================================
 let app = express();
-let PORT = 3000;
+let PORT = process.env.PORT || 8000;;
 
 
 // Sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('./public'));
 
 
 // Routes
 // =============================================================
 // Basic route that sends the user first to the AJAX Page
-app.get("/", function(req, res) {
+app.get("/notes", function(req, res) {
   res.sendFile(path.join(__dirname, "./public/notes.html"));
 });
 
