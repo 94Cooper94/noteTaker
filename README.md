@@ -12,6 +12,8 @@
 ## Description
   For users that need to keep track of a lot of information. Heroku's constant uptime enables users to take persistent notes allowing to have written information available when needed.
 
+![Example](./public/assets/media/noteDemo.PNG)
+
 ## Installation
 Required packages: Simply follow the deployed link!
   
@@ -34,5 +36,8 @@ Cooper Ahearn
 ![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)
 
 View the project live thanks to GitHub Pages: https://note-taker-s.herokuapp.com/
+
+For a step by step video:
+[![Live Demo](./public/assets/media/demoVid.PNG)](https://drive.google.com/file/d/17sKWxhOt8hUoxa9--lWaFskun_IxLbGw/view)
 
 If you have any questions, contact the author directly at LCAhearn94@gmail.com.
