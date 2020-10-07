@@ -18,7 +18,7 @@
 Required packages: Simply follow the deployed link!
   
 ## Tests
-To test, run the following command: Clicking the link and starring the page
+To test, run the following command: click the link in the contact section
 
 ## License
 MIT
@@ -35,7 +35,7 @@ Cooper Ahearn
 
 ![Badge](https://img.shields.io/badge/Github-94Cooper94-4cbbb9)
 
-View the project live thanks to GitHub Pages: https://note-taker-s.herokuapp.com/
+View the project live thanks to Heroku: https://note-taker-s.herokuapp.com/
 
 For a step by step video:
 [![Live Demo](./public/assets/media/demoVid.PNG)](https://drive.google.com/file/d/17sKWxhOt8hUoxa9--lWaFskun_IxLbGw/view)
